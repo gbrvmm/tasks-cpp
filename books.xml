@@ -1,0 +1,39 @@
+<bookstore>
+    <book>
+        <title>
+            Learning XML
+        </title>
+        <author>
+            Erik T. Ray
+        </author>
+        <publisher>
+            O'Reilly Media
+        </publisher>
+        <year>
+            2003
+        </year>
+        <price>
+            39.95
+        </price>
+    </book>
+    <book>
+        <title>
+            XML in a Nutshell
+        </title>
+        <author>
+            Elliotte Rusty Harold
+        </author>
+        <author>
+            W. Scott Means
+        </author>
+        <publisher>
+            O'Reilly Media
+        </publisher>
+        <year>
+            2004
+        </year>
+        <price>
+            34.95
+        </price>
+    </book>
+</bookstore>
